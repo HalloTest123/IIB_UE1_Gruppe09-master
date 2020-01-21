@@ -1,0 +1,9 @@
+﻿<Application x:Class="IIB_UE1_Gruppe09_FireDrencherGUI.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:IIB_UE1_Gruppe09_FireDrencherGUI"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
